@@ -173,3 +173,7 @@ r3.sn-5hne6nsz.googlevideo.com,74.125.100.72
 r3.sn-4g5ednsz.googlevideo.com,173.194.188.136
 r5.sn-oguesnzz.googlevideo.com,74.125.171.235
 r6---sn-4g5ednle.googlevideo.com,74.125.104.92
+r3---sn-4g5ednee.googlevideo.com,74.125.11.25
+r5---sn-4g5edned.googlevideo.com,173.194.164.171
+r3---sn-4g5edn7y.googlevideo.com,173.194.151.121
+r1---sn-4g5e6nss.googlevideo.com,173.194.182.198
